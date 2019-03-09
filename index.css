@@ -1,0 +1,37 @@
+body{
+    margin-top:80px;
+    margin-right:10px;
+    margin-left:300px;
+    margin-bottom: 200;
+    border:15px grey solid;
+    width:531px;
+}
+h2{
+    color:black;
+    font-size: 25px;
+    padding-left: 20px;
+}
+section{
+    background-color: red;
+    width: 525px;
+}
+article{
+    color: white;
+    font-size: 20px;
+    background-color: brown;
+}
+.card{
+    border: 4px solid black;
+}
+footer{
+    font-size: 20px;
+    padding-left: 20px;
+}
+.sayno{
+    padding: 10px;
+}
+.image{
+    width: 200px;
+    float: right;
+    height: 180px;
+}
